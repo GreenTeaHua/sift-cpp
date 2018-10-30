@@ -1,0 +1,28 @@
+﻿  sift.cpp
+e:\app\vs2015\vc\include\myopencv3.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\studesign\dev\sift\vssift\sift\sift.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(96): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(97): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(239): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(277): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(284): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(301): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(333): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(364): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(488): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(587): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(660): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(817): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(928): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(1008): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(1076): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(1178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+g:\studesign\dev\sift\vssift\sift\sift.cpp(1186): warning C4129: “.”: 不可识别的字符转义序列
+g:\studesign\dev\sift\vssift\sift\sift.cpp(1193): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+e:\app\vs2015\vc\include\myopencv3.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  sift.vcxproj -> G:\StuDesign\dev\sift\vsSift\sift\x64\Debug\sift.exe
+  sift.vcxproj -> G:\StuDesign\dev\sift\vsSift\sift\x64\Debug\sift.pdb (Full PDB)

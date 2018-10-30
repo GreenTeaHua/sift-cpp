@@ -1,0 +1,147 @@
+﻿  sift.cpp
+e:\app\vs2015\vc\include\myopencv3.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2065: “Vector”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2275: “Keypoint”: 将此类型用作表达式非法
+  g:\studesign\dev\sift\vssift\sift\sift.h(51): note: 参见“Keypoint”的声明
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2059: 语法错误:“const”
+g:\studesign\dev\sift\vssift\sift\sift.h(81): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(81): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(85): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(85): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(86): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(98): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(101): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(105): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(106): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(106): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(107): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.cpp(255): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(255): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(257): error C2065: “octaves”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(259): error C2065: “intervals”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(262): error C2065: “gauss_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(262): error C2065: “intervals”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(262): error C2660: “Sub”: 函数不接受 2 个参数
+g:\studesign\dev\sift\vssift\sift\sift.cpp(263): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(263): error C2228: “.push_back”的左边必须有类/结构/联合
+  g:\studesign\dev\sift\vssift\sift\sift.cpp(263): note: 类型是“unknown-type”
+g:\studesign\dev\sift\vssift\sift\sift.cpp(274): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(274): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(276): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(276): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(276): error C2228: “.data”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(277): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(277): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(277): error C2228: “.step”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(284): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(284): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(284): error C2228: “.step”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(289): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(289): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(289): error C2228: “.data”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(301): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(301): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(301): error C2228: “.step”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(307): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(307): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(307): error C2228: “.data”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(330): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(330): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(332): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(332): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(332): error C2228: “.data”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(333): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(333): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(333): error C2228: “.step”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(351): error C2065: “r”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(361): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(361): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(363): error C2065: “pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(363): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(363): error C2228: “.data”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(364): error C2065: “pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(364): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(364): error C2228: “.step”的左边必须有类/结构/联合
+g:\studesign\dev\sift\vssift\sift\sift.cpp(365): error C2065: “y”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(365): error C2065: “x”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(376): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(376): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(378): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(378): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(379): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(379): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(380): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(380): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(382): error C2065: “dx”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(383): error C2065: “dx”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(384): error C2065: “dx”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(388): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(388): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(392): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(392): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(394): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(394): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(395): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(395): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(396): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(396): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(398): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(398): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(399): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(399): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(401): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(401): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(402): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(402): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(404): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(404): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(405): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(405): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(407): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(408): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(409): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(411): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(412): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(413): error C2065: “H”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(456): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.cpp(456): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.cpp(460): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(460): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(463): error C2065: “dog_pyr”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(463): error C2065: “index”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(467): error C2065: “offset_x”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(470): error C2065: “offset_x”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(472): error C2065: “offset_x”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.cpp(472): fatal error C1003: 错误计数超过 100；正在停止编译
+  main.cpp
+e:\app\vs2015\vc\include\myopencv3.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2065: “Vector”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2275: “Keypoint”: 将此类型用作表达式非法
+  g:\studesign\dev\sift\vssift\sift\sift.h(51): note: 参见“Keypoint”的声明
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\sift.h(80): error C2059: 语法错误:“const”
+g:\studesign\dev\sift\vssift\sift\sift.h(81): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(81): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(85): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(85): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(86): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(98): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(101): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\sift.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(105): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(106): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\studesign\dev\sift\vssift\sift\sift.h(106): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+g:\studesign\dev\sift\vssift\sift\sift.h(107): error C2061: 语法错误: 标识符“Vector”
+g:\studesign\dev\sift\vssift\sift\main.cpp(36): error C2039: “Vector”: 不是“cv”的成员
+  e:\app\vs2015\vc\include\opencv2\videostab\ring_buffer.hpp(49): note: 参见“cv”的声明
+g:\studesign\dev\sift\vssift\sift\main.cpp(36): error C2065: “Vector”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\main.cpp(36): error C2275: “Keypoint”: 将此类型用作表达式非法
+  g:\studesign\dev\sift\vssift\sift\sift.h(51): note: 参见“Keypoint”的声明
+g:\studesign\dev\sift\vssift\sift\main.cpp(36): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\main.cpp(38): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\main.cpp(39): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\main.cpp(40): error C2065: “features”: 未声明的标识符
+g:\studesign\dev\sift\vssift\sift\main.cpp(41): error C2065: “features”: 未声明的标识符
+  正在生成代码...
